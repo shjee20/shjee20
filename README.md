@@ -12,3 +12,5 @@ I am a Biomedical Engineering student at Yonsei University. I work across physio
 - **Imaging:** CT/MRI analysis, localization, classification, and medical image preprocessing
 
 My current research focuses on personalized sleep-stage forecasting using pre-sleep wake EEG as a subject-specific baseline.
+
+<img width="1672" height="941" alt="profile" src="https://github.com/user-attachments/assets/49a523ab-88e4-4925-aada-056027b94f6a" />
