@@ -10,7 +10,7 @@ I am a Biomedical Engineering student at Yonsei University. I work across physio
 <img
   src="https://github.com/user-attachments/assets/31ce4ef9-577c-4692-a6f3-df285fcdb208"
   alt="Profile"
-  width="1000"
+  width="850"
 />
 
 - **Research:** EEG/ECG analysis, subject-specific modeling, sleep-stage forecasting, and reproducible evaluation
