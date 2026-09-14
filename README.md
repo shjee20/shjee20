@@ -1,12 +1,14 @@
 
-# Seong Hyeon Jee 💬
+# Seong Hyeon Jee 👨‍💻
 
-**Biomedical Engineering Researcher**
+**Biomedical AI Researcher**
 
-Biosignal Processing · Temporal Biomedical AI · Medical Imaging
+Biosignal Processing · Time-series Modeling · Medical Imaging
 
-I am a Biomedical Engineering student at Yonsei University. I work across physiological signal processing, medical imaging, and deep learning, with a current focus on personalized modeling of temporal biomedical data.
+I am a Biomedical Engineering student at Yonsei University. I work across physiological signal processing, medical imaging, and machine learning, with a current focus on personalized analysis of temporal biomedical data.
 
-- **Research:** EEG/ECG analysis, subject-specific modeling, sleep-stage forecasting
-- **Methods:** signal processing, time-series modeling, deep learning
-- **Imaging:** CT/MRI analysis, localization, and classification
+- **Research:** EEG/ECG analysis, subject-specific modeling, sleep-stage forecasting, and reproducible evaluation
+- **Methods:** signal processing, time-series modeling, deep learning, and personalized prediction
+- **Imaging:** CT/MRI analysis, localization, classification, and medical image preprocessing
+
+My current research focuses on personalized sleep-stage forecasting using pre-sleep wake EEG as a subject-specific baseline.
