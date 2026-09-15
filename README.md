@@ -16,6 +16,6 @@ My current research focuses on personalized sleep-stage forecasting using pre-sl
 <img
   src="https://github.com/user-attachments/assets/31ce4ef9-577c-4692-a6f3-df285fcdb208"
   alt="Profile"
-  width="600"
+  width="700"
 />
 
