@@ -11,7 +11,13 @@ I am a Biomedical Engineering student at Yonsei University. I work across physio
 - **Methods:** signal processing, time-series modeling, deep learning, and personalized prediction
 - **Imaging:** CT/MRI analysis, localization, classification, and medical image preprocessing
 
-[Research Portfolio →](https://shjee20.github.io/research-portfolio/)
+<p align="center">
+  <strong>
+    <a href="https://shjee20.github.io/research-portfolio/">
+      Explore My Research Portfolio →
+    </a>
+  </strong>
+</p>
 
 My current research focuses on personalized sleep-stage forecasting using pre-sleep wake EEG as a subject-specific baseline.
 <p align="center">
