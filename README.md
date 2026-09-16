@@ -9,14 +9,23 @@
 </p>
 
 
-I am a Biomedical Engineering student at Yonsei University.<br>
-I work across physiological signal processing, medical imaging, and machine learning,<br>
+<div align="center">
+  <table>
+    <tr>
+      <td align="left">
+
+I am a Biomedical Engineering student at Yonsei University.  
+I work across physiological signal processing, medical imaging, and machine learning,  
 with a current focus on personalized analysis of temporal biomedical data.
 
-<strong>Research:</strong> EEG/ECG analysis, subject-specific modeling, sleep-stage forecasting, and reproducible evaluation<br>
-<strong>Methods:</strong> signal processing, time-series modeling, deep learning, and personalized prediction<br>
-<strong>Imaging:</strong> CT/MRI analysis, localization, classification, and medical image preprocessing
+**Research:** EEG/ECG analysis, subject-specific modeling, sleep-stage forecasting, and reproducible evaluation  
+**Methods:** signal processing, time-series modeling, deep learning, and personalized prediction  
+**Imaging:** CT/MRI analysis, localization, classification, and medical image preprocessing
 
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
   <strong>
