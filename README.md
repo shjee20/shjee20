@@ -8,17 +8,15 @@
   Biosignal Processing · Time-series Modeling · Medical Imaging
 </p>
 
-<p align="center">
-  I am a Biomedical Engineering student at Yonsei University.<br>
-  I work across physiological signal processing, medical imaging, and machine learning,<br>
-  with a current focus on personalized analysis of temporal biomedical data.
-</p>
 
-<p align="center">
-  <strong>Research:</strong> EEG/ECG analysis, subject-specific modeling, sleep-stage forecasting, and reproducible evaluation<br>
-  <strong>Methods:</strong> signal processing, time-series modeling, deep learning, and personalized prediction<br>
-  <strong>Imaging:</strong> CT/MRI analysis, localization, classification, and medical image preprocessing
-</p>
+I am a Biomedical Engineering student at Yonsei University.<br>
+I work across physiological signal processing, medical imaging, and machine learning,<br>
+with a current focus on personalized analysis of temporal biomedical data.
+
+<strong>Research:</strong> EEG/ECG analysis, subject-specific modeling, sleep-stage forecasting, and reproducible evaluation<br>
+<strong>Methods:</strong> signal processing, time-series modeling, deep learning, and personalized prediction<br>
+<strong>Imaging:</strong> CT/MRI analysis, localization, classification, and medical image preprocessing
+
 
 <p align="center">
   <strong>
