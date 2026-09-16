@@ -1,5 +1,7 @@
 
-# Seong Hyeon Jee 👨‍💻
+<p align="center">
+
+  # Seong Hyeon Jee 👨‍💻
 
 **Biomedical AI Researcher**
 
@@ -11,7 +13,6 @@ I am a Biomedical Engineering student at Yonsei University. I work across physio
 - **Methods:** signal processing, time-series modeling, deep learning, and personalized prediction
 - **Imaging:** CT/MRI analysis, localization, classification, and medical image preprocessing
 
-<p align="center">
   <strong>
     <a href="https://shjee20.github.io/research-portfolio/">
       Explore My Research Portfolio →
